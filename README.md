@@ -1,40 +1,55 @@
-<h1 align="center">Hi 👋, I'm Reetu</h1>
-
-<h3 align="center">🚀 Full Stack Developer | UI Designer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Jeetendra</h1>
+<h3 align="center">Data Analyst | Finance Analytics Professional</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Cool+Dashboards;Passionate+Developer;Always+Learning+New+Tech" />
+📍 India 🇮🇳 <br>
+📊 Turning data into insights for better decisions
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
+- 🔹 7+ years experience in **Banking, NBFC, FinTech & Automobile Finance**
+- 🔹 Strong in **MIS, Reporting & Dashboard Automation**
+- 🔹 Tools: **Python, SQL, Power BI, Advanced Excel**
+- 🔹 Passionate about **data-driven business growth**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+---
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,mysql,git,github,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Advanced-Excel-green?style=for-the-badge">
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+### 🔗 Let’s Connect
+<p>
+<a href="mailto:jitendor034636@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 </p>
 
 ---
 
-## 🌍 Connect With Me
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jeetendra-data-analyst&show_icons=true&theme=dark" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeetendra-data-analyst&theme=dark" />
 </p>
+
+---
+
+### 😄 Fun Fact
+> I love automating reports so businesses can focus on strategy 🚀
