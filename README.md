@@ -1,45 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jeetendra</h1>
-<h3 align="center">Data Analyst | Finance Analytics Professional</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi there, I'm Jeetendra 👋</h1>
 
 <p align="center">
-📍 India 🇮🇳 <br>
-📊 Turning data into insights for better decisions
+<b>Data Analyst | Finance Analytics Professional | Dashboard Expert</b>
+</p>
+
+<p align="center">
+📍 India 🇮🇳 &nbsp; | &nbsp; 📊 Passionate about data-driven decisions
 </p>
 
 ---
 
+<!-- ABOUT -->
 ### 👨‍💻 About Me
-- 🔹 7+ years experience in **Banking, NBFC, FinTech & Automobile Finance**
-- 🔹 Strong in **MIS, Reporting & Dashboard Automation**
-- 🔹 Tools: **Python, SQL, Power BI, Advanced Excel**
-- 🔹 Passionate about **data-driven business growth**
+I’m a **Finance & Data Analytics professional with 7+ years of experience** across  
+**Banking, NBFC, FinTech & Automobile Finance**.
+
+I specialize in converting complex business data into:
+- 📈 Automated MIS Reports  
+- 📊 Insightful Power BI Dashboards  
+- ⚙️ Efficient data models for leadership decisions  
+
+Always curious to learn new tools and build smarter reporting systems.
 
 ---
 
-### 🛠️ Tech Stack
-<p>
+<!-- TECH STACK -->
+### 🛠️ Technologies & Tools
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,sql,mysql,git,github,vscode" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Advanced-Excel-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Advanced%20Excel-Analytics-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MIS%20Reporting-Finance-blue?style=for-the-badge" />
 </p>
 
 ---
 
-### 🔗 Let’s Connect
+<!-- CONNECT -->
+### 🌟 Let’s Connect!
+I’m always open to collaborating on analytics projects or discussing data ideas.
+
 <p>
-<a href="mailto:jitendor034636@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:jitendor034636@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
 ---
 
+<!-- FUN FACT -->
+### 😄 Fun Fact
+I love automating reports so much that manual Excel feels illegal now ☕📊
+
+---
+
+<!-- STATS -->
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jeetendra-data-analyst&show_icons=true&theme=dark" />
@@ -48,8 +69,3 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeetendra-data-analyst&theme=dark" />
 </p>
-
----
-
-### 😄 Fun Fact
-> I love automating reports so businesses can focus on strategy 🚀
