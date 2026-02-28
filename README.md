@@ -1,4 +1,4 @@
-<!-- PROFILE HEADER -->
+<img src="banner.png" alt="Banner" width="100%" /><!-- PROFILE HEADER -->
 <h1 align="center">Hi there, I'm Jeetendra 👋</h1>
 
 <p align="center">
