@@ -1,9 +1,8 @@
 <img src="banner.png" alt="Banner" width="100%" /><!-- PROFILE HEADER -->
-<h1 align="center">## 🚀 About Me
+<h1 align="center"> 📊 Transforming Data into Business Decisions
 
-Finance & Data Analytics Professional  
-7+ Years Experience in Banking & NBFC  
-Specialized in Power BI, SQL & Python
+Helping organizations turn complex financial data into clear, actionable insights.  
+Expert in building automated dashboards, MIS reports & data-driven strategies.
 
 <p align="center">
 <b>Data Analyst | Finance Analytics Professional | Dashboard Expert</b>
