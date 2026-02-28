@@ -1,5 +1,5 @@
 <img src="banner.png" alt="Banner" width="100%" /><!-- PROFILE HEADER -->
-<h1 align="center"> ## 🚀 Data. Strategy. Growth.
+<h1 align="center">  🚀 Data. Strategy. Growth.
 
 Specializing in Power BI, SQL & Python to build scalable analytics solutions  
 for Banking, NBFC & Financial Services.
