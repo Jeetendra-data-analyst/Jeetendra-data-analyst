@@ -1,9 +1,8 @@
 <img src="banner.png" alt="Banner" width="100%" /><!-- PROFILE HEADER -->
-<h1 align="center"> 📊 Transforming Data into Business Decisions
+<h1 align="center"> ## 🚀 Data. Strategy. Growth.
 
-Helping organizations turn complex financial data into clear, actionable insights.  
-Expert in building automated dashboards, MIS reports & data-driven strategies.
-
+Specializing in Power BI, SQL & Python to build scalable analytics solutions  
+for Banking, NBFC & Financial Services.
 <p align="center">
 <b>Data Analyst | Finance Analytics Professional | Dashboard Expert</b>
 </p>
