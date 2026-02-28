@@ -1,5 +1,9 @@
 <img src="banner.png" alt="Banner" width="100%" /><!-- PROFILE HEADER -->
-<h1 align="center">Hi there, I'm Jeetendra 👋</h1>
+<h1 align="center">## 🚀 About Me
+
+Finance & Data Analytics Professional  
+7+ Years Experience in Banking & NBFC  
+Specialized in Power BI, SQL & Python
 
 <p align="center">
 <b>Data Analyst | Finance Analytics Professional | Dashboard Expert</b>
