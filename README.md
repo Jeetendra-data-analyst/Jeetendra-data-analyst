@@ -12,8 +12,18 @@ Turning Data into Business Insights 📊
 - 💼 Finance & Data Analytics Professional  
 - 📊 7+ Years Experience in Banking & NBFC  
 - 🛠 Skilled in Power BI, SQL & Python  
-- 📈 Dashboard & MIS Reporting Expert  
+- 📈 Dashboard & MIS Reporting Expert
+  
+---
 
+## 🎯 Core Expertise
+
+- Financial Data Analysis & MIS Reporting
+- Power BI Dashboard Development
+- SQL Query Optimization
+- Python Data Cleaning & Automation
+- KPI & Performance Tracking
+  
 ---
 
 ## 🛠 Tech Stack
