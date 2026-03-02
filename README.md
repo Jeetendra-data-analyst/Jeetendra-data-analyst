@@ -1,73 +1,51 @@
-<img src="banner.png" alt="Banner" width="100%" /><!-- PROFILE HEADER -->
-<h1 align="center">  🚀 Data. Strategy. Growth.
-
-Specializing in Power BI, SQL & Python to build scalable analytics solutions  
-for Banking, NBFC & Financial Services.
-<p align="center">
-<b>Data Analyst | Finance Analytics Professional | Dashboard Expert</b>
-</p>
+<h1 align="center">Hi 👋, I'm Jeetendra</h1>
+<h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
-📍 India 🇮🇳 &nbsp; | &nbsp; 📊 Passionate about data-driven decisions
+Turning Data into Business Insights 📊
 </p>
 
 ---
 
-<!-- ABOUT -->
-### 👨‍💻 About Me
-I’m a **Finance & Data Analytics professional with 7+ years of experience** across  
-**Banking, NBFC, FinTech & Automobile Finance**.
+## 🚀 About Me
 
-I specialize in converting complex business data into:
-- 📈 Automated MIS Reports  
-- 📊 Insightful Power BI Dashboards  
-- ⚙️ Efficient data models for leadership decisions  
-
-Always curious to learn new tools and build smarter reporting systems.
+- 💼 Finance & Data Analytics Professional  
+- 📊 7+ Years Experience in Banking & NBFC  
+- 🛠 Skilled in Power BI, SQL & Python  
+- 📈 Dashboard & MIS Reporting Expert  
 
 ---
 
-<!-- TECH STACK -->
-### 🛠️ Technologies & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,git,github,vscode" />
-</p>
+## 🛠 Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Advanced%20Excel-Analytics-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MIS%20Reporting-Finance-blue?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,mysql,github" />
 </p>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 ---
 
-<!-- CONNECT -->
-### 🌟 Let’s Connect!
-I’m always open to collaborating on analytics projects or discussing data ideas.
+## 📊 GitHub Stats
 
-<p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:jitendor034636@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=jeetendra-data-analyst&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetendra-data-analyst&layout=compact&theme=tokyonight" />
 
 ---
 
-<!-- FUN FACT -->
-### 😄 Fun Fact
-I love automating reports so much that manual Excel feels illegal now ☕📊
+## 📌 Featured Projects
+
+### 📊 Sales Dashboard  
+Power BI dashboard analyzing KPI & sales trends.
+
+### 💰 Financial Risk Analysis  
+SQL & Python based risk reporting model.
 
 ---
 
-<!-- STATS -->
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jeetendra-data-analyst&show_icons=true&theme=dark" />
-</p>
+## 🤝 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeetendra-data-analyst&theme=dark" />
-</p>
+📧 jetender043636@gmail.com  
+💼 LinkedIn: Add your link here
