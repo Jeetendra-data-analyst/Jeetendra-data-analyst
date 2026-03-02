@@ -18,8 +18,6 @@ Turning Data into Business Insights 📊
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### 📊 BI & Visualization
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
