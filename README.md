@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeetendra</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
-
-<p align="center">
-Turning Data into Business Insights 📊
-</p>
+![Banner](https://https://github.com/Jeetendra-data-analyst/Jeetendra-data-analyst/blob/main/banner.png?raw=true) 
 
 ---
 
