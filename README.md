@@ -1,4 +1,4 @@
-![Banner](https://https://github.com/Jeetendra-data-analyst/Jeetendra-data-analyst/blob/main/banner.png?raw=true) 
+<img src="https://raw.githubusercontent.com/Jeetendra-data-analyst/Jeetendra-data-analyst/main/banner.png" width="100%" />
 
 ---
 
