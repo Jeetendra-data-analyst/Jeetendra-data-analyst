@@ -59,5 +59,5 @@ SQL & Python based risk reporting model.
 
 ## 🤝 Connect With Me
 
-📧 jetender043636@gmail.com  
-💼 LinkedIn: Add your link here
+📧 jitender034636@gmail.com 
+💼 LinkedIn: www.linkedin.com/in/jeetendra-data-analyst
